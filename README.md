@@ -4,4 +4,6 @@ NPM : 2206029052
 
 Kelas : PBP C
 
-Tidur
+Hobi : Tidur
+
+Jurusan : Sistem Informasi
